@@ -1,2 +1,5 @@
 # savesys
-Event Sourcing base game save system
+Event Sourcing based save system for games
+
+## Status
+Draft
